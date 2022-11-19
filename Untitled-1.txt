@@ -1,0 +1,1 @@
+# python -m venv venv .\venv\Scripts\activate $env:FLASK_APP = "run.py" flask run
